@@ -1,3 +1,3 @@
-👋 Hi, I’m @HQRSE<br>
+👋 Hi, I’m <span style="color:#ed8a00;">@HQRSE</span><br>
 👀 I’m interested in web development<br>
-📫 Contact: <a href="https://hqrse.ru/">hqrse.ru</a>
+📫 Contact: <a href="https://hqrse.ru/" target="_blank">hqrse.ru</a>
