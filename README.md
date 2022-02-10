@@ -1,3 +1,3 @@
 👋 Hi, I’m @HQRSE<br>
-👀 I’m interested in web development
-📫 Contact: hqrse.ru
+👀 I’m interested in web development<br>
+📫 Contact: <a href="https://hqrse.ru/">hqrse.ru</a>
